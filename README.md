@@ -7,16 +7,14 @@ Hi my name is Michael................
 
 ---
 
-### SQL 
-
+# SQL 
 | Project Link | Project Focus | Project Description |
 |--------------|---------------|---------------------|
-| [European Soccer](https://github.com/AMichaelDS/SQL/blob/main/European%20Soccer%20Data.md) | SQL Queries, Data Cleaning, Exploratory Data Analysis, Predictive Modeling | In this project, I performed comprehensive data analysis on European soccer data. Using SQL queries, I cleaned and prepared the data, conducted exploratory analysis, and built predictive models. The objective was to gain insights into team performance, player statistics, and match outcomes. |
+| [European Soccer](https://github.com/AMichaelDS/SQL/blob/main/European%20Soccer%20Data.md) | SQL Queries, Data Cleaning, Exploratory Data Analysis, Predictive Modeling | In this project, I performed comprehensive data analysis on European soccer data. Using SQL queries, I cleaned and prepared the data, conducted exploratory analysis, and built predictive models. The objective was to gain insights into team performance, player statistics, and match outcomes. I also visualised the findings using Microsoft Power BI. |
 
 ---
 
-### Python
-
+# Python
 | Project Link | Project Focus | Project Description |
 |--------------|---------------|---------------------|
 | [Artificial Intelligence / Analytics Capstone - Isolation Forest for Outlier Detection in Insurance Data](https://colab.research.google.com/drive/1ndBlsvQXI5gdzdWQGDjD1Z9DNMAeX91X?usp=sharing) | Outlier Detection, Dimensionality Reduction, Data Visualization | In this project, I utilized the Isolation Forest algorithm to detect outliers in insurance data and uncover potential cases of adverse selection. I applied PCA for dimensionality reduction and generated a heatmap to visualize the outliers. Moreover, I integrated a demographic dataset to provide context and created visualizations to explore the demographic characteristics of the identified anti-selector users. |
@@ -35,8 +33,7 @@ Hi my name is Michael................
 
 ---
 
-## R
-
+# R
 | Project Link | Project Focus | Description |
 |--------------|---------------|-------------|
 | [Data Preparation and Customer Analytics](https://amichaelds.github.io/R/Quantium%20Virtual%20Internship/Task-1.html) | Data validation, Data visualisation, Data wrangling, Programming | Part 1 of the Quantium Virtual Internship. I conduct analysis on the client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations. |
