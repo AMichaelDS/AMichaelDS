@@ -1,4 +1,5 @@
-Hi my name is Michael................
+I'm Michael
+
 
 ## Table of Contents
 - [SQL](#sql)
